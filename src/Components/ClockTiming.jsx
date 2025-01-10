@@ -2,9 +2,9 @@ import React from 'react'
 
 const ClockTiming = () => {
     return (
-        <div>
-            timing
-        </div>
+        <>
+            <p>This is the current time:</p>
+        </>
     )
 }
 

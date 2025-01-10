@@ -2,7 +2,7 @@ import React from 'react'
 
 const ClockSlogan = () => {
     return (
-        <div>ClockSlogan</div>
+        <p>This is the clock that show the  time  in pakistan at all times.</p>
     )
 }
 
